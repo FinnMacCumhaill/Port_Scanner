@@ -4,4 +4,4 @@ This is also useful for administrators and engineers, especially roles like Netw
 
 Here is a sneak peak at the Port Scanner in action.
 
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/d7fb8caa-b09b-423b-bc7f-bcaf10176fd6" />
+
