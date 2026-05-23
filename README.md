@@ -70,30 +70,11 @@ After completion, results are displayed in a clean, structured format:
 
 ## 🎥 Demo
 
-Below is a simulated example of what running the tool looks like in real time:
-``` bash
-$ python port_scanner.py
+  > Here is example of the tool in action 
 
-Enter your target IP: 192.168.1.10
-Enter the start port: 1
-Enter the end port: 1024
+  <img width="827" height="1032" alt="Screenshot 2026-05-23 141742" src="https://github.com/user-attachments/assets/238ed597-6c3d-43da-8012-5b729e7562de" />
 
-Starting scan on host: 192.168.1.10
-Scanning ports 1–1024 using 100 threads...
-
-[###---------------------------] 12%  (123/1024)
-[########----------------------] 32%  (330/1024)
-[##################------------] 60%  (614/1024)
-[###########################---] 92%  (944/1024)
-[##############################] 100% (1024/1024)
-
-Open Ports Found:
-80   http           Open
-139  netbios-ssn    Open
-445  microsoft-ds   Open
-
-Scan completed in 3.42 seconds.
-```
+  
 ---
 
 ## 🧠 Summary
