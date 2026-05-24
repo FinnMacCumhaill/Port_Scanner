@@ -127,7 +127,7 @@ def port_scan(target_host, start_port, end_port):
             # Appends the result to the results list.
             results.append((port, service, banner, status))
             # Updates the progress on the same line
-            sys.stdout.write(f"\rProgress: {i}/total_ports ports scanned")
+            sys.stdout.write(f"\rProgress: {i} total ports scanned")
             # Flushes the output buffer to ensure the progress message is displayed.
             sys.stdout.flush()
 
